@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>jp.ourin.converted-plugin.c58b6320-caf8-11ed-a901-0800200c9a66</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Wallet of Unyu</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>OurinConverterVersion</key>
+	<integer>1</integer>
+	<key>OurinOriginalExports</key>
+	<array>
+		<string>CI_check_failed</string>
+		<string>Set_loghandler</string>
+		<string>load</string>
+		<string>loadu</string>
+		<string>logsend</string>
+		<string>multi_CI_check_failed</string>
+		<string>multi_Set_loghandler</string>
+		<string>multi_load</string>
+		<string>multi_loadu</string>
+		<string>multi_request</string>
+		<string>multi_unload</string>
+		<string>request</string>
+		<string>unload</string>
+	</array>
+	<key>OurinOriginalImports</key>
+	<array>
+		<string>KERNEL32.dll</string>
+		<string>USER32.dll</string>
+		<string>SHELL32.dll</string>
+	</array>
+	<key>OurinOriginalMachine</key>
+	<string>x86</string>
+	<key>OurinOriginalModule</key>
+	<string>yaya.dll</string>
+	<key>OurinPluginEngine</key>
+	<string>yaya</string>
+</dict>
+</plist>
